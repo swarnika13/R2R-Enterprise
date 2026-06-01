@@ -32,8 +32,4 @@ This security policy applies to the R2R codebase and its dependencies. It does n
 
 We greatly appreciate the efforts of security researchers and developers who responsibly disclose vulnerabilities to us. With your permission, we will acknowledge your contribution in the release notes and any public disclosures related to the vulnerability.
 
-## Contact
 
-If you have any questions or concerns regarding the security of R2R, please contact the project maintainers at [security@r2r.com](mailto:security@r2r.com).
-
-Thank you for helping us keep R2R and its users secure!
