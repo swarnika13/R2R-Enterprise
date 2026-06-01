@@ -1,10 +1,6 @@
-# Contributor Covenant Code of Conduct Summary
-
-TL;DR: Be nice. Be respectful. Be professional. Don't be a jerk.
-
 ## Commitment
 
-We strive for a harassment-free, inclusive, and healthy community experience for all, regardless of personal characteristics or background.
+Strive for a harassment-free, inclusive, and healthy community experience for all, regardless of personal characteristics or background.
 
 ## Expected Behaviors
 
@@ -34,9 +30,3 @@ We strive for a harassment-free, inclusive, and healthy community experience for
 - **Warning**: Consequences for repeated violations.
 - **Temporary Ban**: For serious or sustained inappropriate behavior.
 - **Permanent Ban**: For egregious violations, including harassment.
-
-## Attribution
-
-Adapted from the [Contributor Covenant version 2.1](https://www.contributor-covenant.org/version/2/1/code_of_conduct.html), with Community Impact Guidelines inspired by [Mozilla's code of conduct enforcement ladder](https://www.mozilla.org/en-US/about/governance/policies/participation/).
-
-For more details and FAQs, visit [https://www.contributor-covenant.org/faq](https://www.contributor-covenant.org/faq). Translations are available [here](https://www.contributor-covenant.org/translations).
